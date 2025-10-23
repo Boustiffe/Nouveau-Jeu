@@ -1,0 +1,4 @@
+# interdit fichier psd
+*.psd
+# Dossier Temp
+/**/[Tt]emp
